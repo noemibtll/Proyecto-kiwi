@@ -1,0 +1,23 @@
+body{
+background: -webkit-linear-gradient(to right,#fbfcfcb2,#f0e3e3);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right,#caccccb2,#f0e3e3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+img {
+    height: 20%;
+}
+.spinner-grow{
+    background-color: #2414ff;
+    animation-iteration-count: 5;
+    
+    left: 50%;
+    top: 50%;
+    z-index: 1;
+    width: 120px;
+    height: 120px;
+    margin: -76px 0 0 -76px; 
+    border-radius: 50%;   
+  }
+  #barra_menu{ 
+    background-color: #97979c;
+    color: white;
+}
